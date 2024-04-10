@@ -1,1 +1,1 @@
-alert("helooooo")
+document.write("helooooo")
